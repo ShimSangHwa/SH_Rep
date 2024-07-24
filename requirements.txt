@@ -1,0 +1,7 @@
+streamlit
+pandas
+sqlalchemy
+matplotlib
+numpy
+st-aggrid
+scipy
