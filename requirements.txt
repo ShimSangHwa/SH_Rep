@@ -3,5 +3,5 @@ pandas
 sqlalchemy
 matplotlib
 numpy
-st-aggrid
+streamlit-aggrid
 scipy
